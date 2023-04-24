@@ -1,4 +1,4 @@
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/certificate-cards)
+my netlify (https://jolly-zuccutto-e1fdd4.netlify.app/)
 
 # Certificate Cards
 
@@ -20,3 +20,5 @@ Promotional site to showcase Dept of Design Certificates.
 ## Citations
 - [3D Card Flip](https://codepen.io/desandro/pen/LmWoWe)
 - [3D Product Cards by Zac](https://codepen.io/zremboldt/pen/ZvQjOG)
+
+General Sans (https://www.fontshare.com/)
